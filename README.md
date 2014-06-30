@@ -8,4 +8,7 @@ This repository was created as we learnt how to use GitHub during our first week
 - Git
 
 ## Pairing
-Contributors were Emma Williams, Louise Lai, Joseph Wolf, Julieann Walker and our coach Enrique Comba Riepenhausen.
+- Louise Lai
+- Joseph Wolf
+- Julieann Walker
+- Enrique Comba Riepenhausen (our coach)
